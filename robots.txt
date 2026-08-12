@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jj05c7.yoursingles.online/sitemap.xml
